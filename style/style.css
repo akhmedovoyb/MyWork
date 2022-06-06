@@ -1,0 +1,31 @@
+@import 'fonts.css';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+:root{
+    --mont-black: 'Montserrat-Black';
+    --mont-boltitalic: 'Montserrat-BoldItalic';
+    --mont-regular: 'Montserrat-Regular';
+    --mont-seibold: 'Montserrat-SemiBold';
+    --light_mode: #fff;
+    --dark_mode: #151437;
+    --primary_color: #7177f1;
+        
+}
+
+body{
+    background: var(--light_mode);
+    
+}
+
+/* HEADER START */
+
+
+
+/* HEADER END */
